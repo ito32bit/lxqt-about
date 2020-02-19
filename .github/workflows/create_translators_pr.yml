@@ -18,10 +18,9 @@ jobs:
         uses: peter-evans/create-pull-request@v2.4.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Updated translators info from GitHub action"
+          commit-message: "Created translators info from GitHub action"
           title: "Update translators from GitHub action"
-          body: |
-            Create new translators_*.info
+          body: "Create new translators_*.info"
           branch: translators-action
       - name: Check outputs
         run: |
