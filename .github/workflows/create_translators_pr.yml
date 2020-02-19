@@ -1,7 +1,9 @@
 name: Create translators pull request action
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 21 * * *"
+  repository_dispatch:
+    types: [create-pull-request]
 jobs:
   create_pr:
     runs-on: ubuntu-latest
