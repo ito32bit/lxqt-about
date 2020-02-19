@@ -41,9 +41,6 @@ for fp in $f ; do
             dev=true
           fi
         fi
-        if [[ "yast4ik@yahoo.com" == ${author##* } ]] ; then
-          echo -n "Y"
-        fi
         ;;
       " ")
         if ! $dev && (( $count > 0 )) ; then
