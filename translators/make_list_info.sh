@@ -26,6 +26,7 @@ for fp in $f ; do
   IFS=$'\n'
   lines=`cat $fp`
   for line in $lines; do
+    unset IFS
     case ${line:0:1} in
       "F")
         filename=${line#??}
@@ -35,12 +36,13 @@ for fp in $f ; do
         author=${line#??}
         dev=false
         let count=0
-        langs=${developers[${author##* }]}
-        if [[ -n $langs ]] ; then
-          if ! [[ $langs =~ .*$lang.* ]] ; then
-            dev=true
+        for a in ${developers[${author##* }]} ; do
+          dev=true
+          if [[ $a == $lang ]] ; then
+            dev=false
+            break
           fi
-        fi
+        done
         ;;
       " ")
         if ! $dev && (( $count > 0 )) ; then
