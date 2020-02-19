@@ -13,12 +13,17 @@ jobs:
       - run: "cd translators && ./make_list_info.sh"
       - run: "cd translators && ./copy_info.sh"
       - run: "cd translators && ./clean_list.sh"
-      - uses: gr2m/create-or-update-pull-request-action@v1.2.2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v2.4.2
         with:
-          title: "Update translators from Github action"
-          body: ""
-          branch: "translators-action"
-          commit-message: "Updated translators info from Github action"
-          author: Action-bot <create-or-update-pull-request@users.noreply.github.com>
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Updated translators info from GitHub action"
+          title: "Update translators from GitHub action"
+          body: |
+            Create new translators_*.info
+          branch: translators-action
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pr_number }}"
