@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: "0 21 * * *"
   repository_dispatch:
-    types: [create-pull-request]
+    types: [translators-action]
 jobs:
   create_pr:
     runs-on: ubuntu-latest
@@ -21,7 +21,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Created translators info from GitHub action"
-          title: "Update translators from GitHub action"
+          title: "Update translators info from GitHub action"
           body: "Create new translators_*.info"
           branch: translators-action
       - name: Check outputs
