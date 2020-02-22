@@ -5,27 +5,31 @@
 #
 
 #[ar]    15 <Abubakaryagob@gmail.com>                Abubakar Yagoub
+#[ar]     1 <asedameer120@gmail.com>                 ameer ali
 #[ar]  1050 <butterflyoffire@protonmail.com>         ButterflyOfFire
 #[ar]     9 <elmkhoust.rida@tutanota.com>            rida-lmk
-#[ar]  2042 <safa1996alfulaij@gmail.com>             Safa Alfulaij
+#[ar]  2330 <safa1996alfulaij@gmail.com>             Safa Alfulaij
 #[ar]    26 <salemalbream@gmail.com>                 salembream
 #[ar]     5 <sh.yaron@gmail.com>                     Yaron Shahrabani
 
 translator_1_nameEnglish = Abubakar Yagoub
 translator_1_contact = Abubakaryagob@gmail.com
 
-translator_2_nameEnglish = ButterflyOfFire
-translator_2_contact = butterflyoffire@protonmail.com
+translator_2_nameEnglish = ameer ali
+translator_2_contact = asedameer120@gmail.com
 
-translator_3_nameEnglish = rida-lmk
-translator_3_contact = elmkhoust.rida@tutanota.com
+translator_3_nameEnglish = ButterflyOfFire
+translator_3_contact = butterflyoffire@protonmail.com
 
-translator_4_nameEnglish = Safa Alfulaij
-translator_4_contact = safa1996alfulaij@gmail.com
+translator_4_nameEnglish = rida-lmk
+translator_4_contact = elmkhoust.rida@tutanota.com
 
-translator_5_nameEnglish = salembream
-translator_5_contact = salemalbream@gmail.com
+translator_5_nameEnglish = Safa Alfulaij
+translator_5_contact = safa1996alfulaij@gmail.com
 
-translator_6_nameEnglish = Yaron Shahrabani
-translator_6_contact = sh.yaron@gmail.com
+translator_6_nameEnglish = salembream
+translator_6_contact = salemalbream@gmail.com
+
+translator_7_nameEnglish = Yaron Shahrabani
+translator_7_contact = sh.yaron@gmail.com
 
