@@ -1,4 +1,8 @@
+# https://github.com/lxqt/lxqt/wiki/.mailmap
+# tracking bug: https://github.com/lxqt/lxqt/issues/1748
+
 # Proper Name <proper@email.xx> Commit Name <commit@email.xx>
+# Proper Name <proper@email.xx> <commit@email.xx>
 
 Alec Moskvin <alecm@gmx.com> Alec Moskvin <alecmn@gmail.com>
 
@@ -55,7 +59,6 @@ Hong Jen Yee (PCMan) <pcman.tw@gmail.com> Hone Jen Yee (PCMan) <pcman.tw@gmail.c
 Hong Jen Yee (PCMan) <pcman.tw@gmail.com> PCMan <pcman.tw@gmail.com>
 Hong Jen Yee (PCMan) <pcman.tw@gmail.com> Hong Jen-Yee (PCMan) <pcman.tw@gmail.com>
 
-#Ilya87 <yast4ik@gmail.com> Ilya87 <yast4ik@yahoo.com>
 Ilya87 <yast4ik@gmail.com> <yast4ik@yahoo.com>
 Ilya87 <yast4ik@gmail.com> Ilya87 <you@example.com>
 
@@ -81,12 +84,6 @@ Martin Bagge <brother@bsnet.se> Martin Bagge / brother <brother@bsnet.se>
 Martin Bagge <brother@bsnet.se> brother <brother@bsnet.se>
 
 Martl <qso@users.sf.net> qsodev <qso@users.sf.net>
-
-# Masamichi Ito <i_to_ma-lxqt014@yahoo.co.jp> Ma. Ito <i_to_ma-lxqt014@yahoo.co.jp>
-# Masamichi Ito <i_to_ma-lxqt014@yahoo.co.jp> Masamichi Ito <52656419+ito32bit@users.noreply.github.com>
-# Masamichi Ito <i_to_ma-lxqt014@yahoo.co.jp> Masamichi Ito <ito32bit+github@gmail.com>
-# Masamichi Ito <i_to_ma-lxqt014@yahoo.co.jp> Masamichi Ito <ito32bit+weblate@gmail.com>
-# Masamichi Ito <i_to_ma-lxqt014@yahoo.co.jp> Masamichi Ito <ito32bit@gmail.com>
 
 Masamichi Ito <52656419+ito32bit@users.noreply.github.com> <i_to_ma-lxqt014@yahoo.co.jp>
 Masamichi Ito <52656419+ito32bit@users.noreply.github.com> <ito32bit+github@gmail.com>
@@ -146,6 +143,8 @@ Stefano Binde <stef.binde@riseup.net> stefonarch <stef.binde@riseup.net>
 Stefano Binde <stef.binde@riseup.net> Stef Binde <stef.binde@riseup.net>
 Stefano Binde <stef.binde@riseup.net> Stef <stef.binde@riseup.net>
 
+Cheng-Hong Wu (stuarch) <stu2731652+AT+gmail.com> <Administrator@speed.(none)>
+
 su-hyun,Yang <daehyun.yang@gmail.com> hyun <daehyun.yang@gmail.com>
 
 Takefumi Nagata <take1975@kumamoto.email.ne.jp> Takefumi Nagata <rago1975@users.noreply.github.com>
@@ -164,5 +163,7 @@ welaq <hazap@hotmail.com> welaq <welaq@users.noreply.github.com>
 welaq <hazap@hotmail.com> Moo <hazap@hotmail.com>
 
 Yaşar Çiv <yasarciv67@gmail.com> Yaşar <42207558+yasarciv67@users.noreply.github.com>
+
+ypnos <github@lanrules.de> <git@lanrules.de>
 
 Zac Anger <zac@zacanger.com> zacanger <zac@zacanger.com>
