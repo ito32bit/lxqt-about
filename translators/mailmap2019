@@ -1,4 +1,4 @@
-# [nameEnglish contact] = Proper-name Proper-mail
+# [nameEnglish contact]="Proper-name Proper-mail"
 
 declare -A map2019=(
   ["Mika Kobayashi https://github.com/mika-k/"]="Mika Kobayashi mika-k@users.noreply.github.com" # ja
