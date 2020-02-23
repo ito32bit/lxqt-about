@@ -8,4 +8,6 @@ declare -A map2019=(
   ["Mikkel Skovlund"]="Mikkel Skovlund @" # da
   ["Igor Zakharov f2404@yandex.ru"]="Igor f2404@yandex.ru" # ru
   ["Daiana Heinrich"]="Daiana Heinrich @" # ro_RO
+  ["Moo"]="Moo @" # lt
+  ["Ilya Shestopalov yast4ik@yahoo.com"]="Ilya87 yast4ik@gmail.com" # ru
 )

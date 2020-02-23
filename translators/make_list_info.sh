@@ -38,10 +38,12 @@ for fp in $f ; do
             let list["${map2019[$author]:-$author}"]=0
           fi
           author=${line#*= }
+          author=${author% }
           ;;
         translator_*_contact*)
           mail=${line#*= }
           mail=${mail// /+}
+          mail=${mail//[<>]/}
           author="$author $mail"
           ;;
       esac
