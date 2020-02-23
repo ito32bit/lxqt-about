@@ -6,6 +6,7 @@
 
 #[sv]     8 <pcproffsen@gmail.com>                   Bjorn Bertilsson
 #[sv]  2110 <eriksson112.96@gmail.com>               Daniel
+#[sv]     2 <gianfranco.gutierrez@icloud.com>        Gguti
 #[sv]    25 <iah@protonmail.ch>                      Isak Holmström
 #[sv]  2722 <mikael@parknert.se>                     parknert
 #[sv]   883 <eson@svenskasprakfiler.se>              Åke Engelbrektson
@@ -16,12 +17,15 @@ translator_1_contact = pcproffsen@gmail.com
 translator_2_nameEnglish = Daniel
 translator_2_contact = eriksson112.96@gmail.com
 
-translator_3_nameEnglish = Isak Holmström
-translator_3_contact = iah@protonmail.ch
+translator_3_nameEnglish = Gguti
+translator_3_contact = gianfranco.gutierrez@icloud.com
 
-translator_4_nameEnglish = parknert
-translator_4_contact = mikael@parknert.se
+translator_4_nameEnglish = Isak Holmström
+translator_4_contact = iah@protonmail.ch
 
-translator_5_nameEnglish = Åke Engelbrektson
-translator_5_contact = eson@svenskasprakfiler.se
+translator_5_nameEnglish = parknert
+translator_5_contact = mikael@parknert.se
+
+translator_6_nameEnglish = Åke Engelbrektson
+translator_6_contact = eson@svenskasprakfiler.se
 
