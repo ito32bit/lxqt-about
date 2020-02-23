@@ -2,6 +2,7 @@
 # tracking bug: https://github.com/lxqt/lxqt/issues/1748
 
 # Proper Name <proper@email.xx> Commit Name <commit@email.xx>
+# Proper Name <proper@email.xx> <commit@email.xx>
 
 Alec Moskvin <alecm@gmx.com> Alec Moskvin <alecmn@gmail.com>
 
@@ -84,11 +85,10 @@ Martin Bagge <brother@bsnet.se> brother <brother@bsnet.se>
 
 Martl <qso@users.sf.net> qsodev <qso@users.sf.net>
 
-Masamichi Ito <i_to_ma-lxqt014@yahoo.co.jp> Ma. Ito <i_to_ma-lxqt014@yahoo.co.jp>
-Masamichi Ito <i_to_ma-lxqt014@yahoo.co.jp> Masamichi Ito <52656419+ito32bit@users.noreply.github.com>
-Masamichi Ito <i_to_ma-lxqt014@yahoo.co.jp> Masamichi Ito <ito32bit+github@gmail.com>
-Masamichi Ito <i_to_ma-lxqt014@yahoo.co.jp> Masamichi Ito <ito32bit+weblate@gmail.com>
-Masamichi Ito <i_to_ma-lxqt014@yahoo.co.jp> Masamichi Ito <ito32bit@gmail.com>
+Masamichi Ito <52656419+ito32bit@users.noreply.github.com> <i_to_ma-lxqt014@yahoo.co.jp>
+Masamichi Ito <52656419+ito32bit@users.noreply.github.com> <ito32bit+github@gmail.com>
+Masamichi Ito <52656419+ito32bit@users.noreply.github.com> <ito32bit+weblate@gmail.com>
+Masamichi Ito <52656419+ito32bit@users.noreply.github.com> <ito32bit@gmail.com>
 
 Michael Vetter <jubalh@iodoru.org> Michael Vetter <g.bluehut@gmail.com>
 Michael Vetter <jubalh@iodoru.org> Michael Vetter <jubalh@openmailbox.org>
@@ -96,6 +96,8 @@ Michael Vetter <jubalh@iodoru.org> Michael Vetter <jubalh@openmailbox.org>
 micrococo <micrococo@gmx.com>  micrococo <micrococo@users.noreply.github.com>
 
 Miguel A. Bouzada <mbouzada@gmail.com> mbouzada <mbouzada@gmail.com>
+
+Mika Kobayashi <mika-k@users.noreply.github.com> <mika@wjn.moe>
 
 notname000 <notname000@outlook.com> notname000 <34855362+notname000@users.noreply.github.com>
 
@@ -141,6 +143,8 @@ Stefano Binde <stef.binde@riseup.net> stefonarch <stef.binde@riseup.net>
 Stefano Binde <stef.binde@riseup.net> Stef Binde <stef.binde@riseup.net>
 Stefano Binde <stef.binde@riseup.net> Stef <stef.binde@riseup.net>
 
+stuarch <@> <Administrator@speed.(none)>
+
 su-hyun,Yang <daehyun.yang@gmail.com> hyun <daehyun.yang@gmail.com>
 
 Takefumi Nagata <take1975@kumamoto.email.ne.jp> Takefumi Nagata <rago1975@users.noreply.github.com>
@@ -159,5 +163,7 @@ welaq <hazap@hotmail.com> welaq <welaq@users.noreply.github.com>
 welaq <hazap@hotmail.com> Moo <hazap@hotmail.com>
 
 Yaşar Çiv <yasarciv67@gmail.com> Yaşar <42207558+yasarciv67@users.noreply.github.com>
+
+ypnos <github@lanrules.de> <git@lanrules.de>
 
 Zac Anger <zac@zacanger.com> zacanger <zac@zacanger.com>
