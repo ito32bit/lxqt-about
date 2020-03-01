@@ -12,15 +12,13 @@ header="#
 "
 
 cd list
-for fp in `find . -name "gitlog*$1.list"` ; do
+for fp in `find . -name "translators_*$1.gitlog"` ; do
   declare -A list=()
   
   lang=${fp#*_}
-  lang=${lang%.list}
-  outfp=${fp/gitlog/translators}
-  outfp=${outfp%list}info
-  fp2019="../"${outfp/translators/translators2019/translators}
-
+  lang=${lang%.*}
+  outfp=${fp%.*}.info
+  fp2019="../translators2019/"$outfp
   if [[ -e $fp2019 ]] ; then
     echo $fp2019
     IFS=$'\n'
