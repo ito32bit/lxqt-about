@@ -12,14 +12,10 @@ header="#
 "
 
 cd list
-f=`find . -name "gitlog*$1.list"`
-
-for fp in $f ; do
-  unset list
-  declare -A list
+for fp in `find . -name "gitlog*$1.list"` ; do
+  declare -A list=()
   
-  lang=$fp
-  lang=${lang#*_}
+  lang=${fp#*_}
   lang=${lang%.list}
   outfp=${fp/gitlog/translators}
   outfp=${outfp%list}info
@@ -28,9 +24,8 @@ for fp in $f ; do
   if [[ -e $fp2019 ]] ; then
     echo $fp2019
     IFS=$'\n'
-    lines=`cat $fp2019`
     author=""
-    for line in $lines; do
+    for line in `cat $fp2019` ; do
       unset IFS
       case $line in
         translator_*_nameEnglish*)
@@ -55,8 +50,7 @@ for fp in $f ; do
 
   echo -n "$outfp "
   IFS=$'\n'
-  lines=`cat $fp`
-  for line in $lines; do
+  for line in `cat $fp` ; do
     unset IFS
     case ${line:0:1} in
       "F")
@@ -81,17 +75,16 @@ for fp in $f ; do
         fi
         ;;
       [0-9])
-        if [[ $line =~ .*/[^_]*_(.*).ts ]] ; then
-          la1=${BASH_REMATCH[1]}
-          la2=$lang
-          if [[ ${la1:0:2} != ${la2:0:2} ]] ; then
+        if ! $dev ; then
+          if [[ $line =~ .*/[^_]*_(..).*\.ts ]] ; then
+            if [[ ${BASH_REMATCH[1]} != ${lang:0:2} ]] ; then
+                dev=true
+            elif [[ $line =~ .*$filename ]] ; then
+              let count=count+${line%%$'\t'*}
+            fi
+          elif ! [[ $line =~ .*(.desktop.in|.desktop|.ts) ]] ; then
             dev=true
           fi
-        elif ! [[ $line =~ .*(.desktop.in|.desktop|.ts) ]] ; then
-          dev=true
-        fi
-        if [[ $line =~ .*$filename ]] ; then
-          let count=count+${line%%$'\t'*}
         fi
         ;;
     esac

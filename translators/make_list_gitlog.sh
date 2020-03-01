@@ -8,15 +8,12 @@ cd $base
 ts=`find . -name *_*$1.ts`
 rm -f $outdir/gitlog_$1.list
 
-# rm XXXXXX
-
 for fp in $ts ; do
   cd $base
   dir=${fp%/*}
   fn=${fp##*/}
 
-  lang=$fp
-  lang=${lang#*_}
+  lang=${fp#*_}
   lang=${lang%.ts}
   cd $dir
   echo "gitlog: $fn"
