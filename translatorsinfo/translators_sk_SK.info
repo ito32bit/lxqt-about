@@ -5,24 +5,20 @@
 #
 
 #[Lang] Lines <Mail> Name
-#[sk_SK]    14 <7d09add7@opayq.com>                     Fedor Piecka
-#[sk_SK]   106 <fpiecka@neviem.eu>                      Fedor Piecka
+#[sk_SK]   120 <fpiecka@neviem.eu>                      Fedor Piecka
 #[sk_SK]    17 <istefanko@gmail.com>                    Igor Stefanko
 #[sk_SK] 10819 <xpaolox@zoznam.sk>                      Paolo Vigoroso
 #[sk_SK]     9 <petersz256@gmail.com>                   PeterSzakacs
 
 translator_1_nameEnglish = Fedor Piecka
-translator_1_contact = 7d09add7@opayq.com
+translator_1_contact = fpiecka@neviem.eu
 
-translator_2_nameEnglish = Fedor Piecka
-translator_2_contact = fpiecka@neviem.eu
+translator_2_nameEnglish = Igor Stefanko
+translator_2_contact = istefanko@gmail.com
 
-translator_3_nameEnglish = Igor Stefanko
-translator_3_contact = istefanko@gmail.com
+translator_3_nameEnglish = Paolo Vigoroso
+translator_3_contact = xpaolox@zoznam.sk
 
-translator_4_nameEnglish = Paolo Vigoroso
-translator_4_contact = xpaolox@zoznam.sk
-
-translator_5_nameEnglish = PeterSzakacs
-translator_5_contact = petersz256@gmail.com
+translator_4_nameEnglish = PeterSzakacs
+translator_4_contact = petersz256@gmail.com
 
