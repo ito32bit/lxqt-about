@@ -12,7 +12,7 @@
 #[tr]     3 <krc440002@gmail.com>                    Furkan K
 #[tr]    12 <obendevin@gmail.com>                    Oben Devin Çetiner
 #[tr]    74 <yakushabb@gmail.com>                    Sabri Ünal
-#[tr]    30 <vedat@pisi_linux1.0>                    vedat
+#[tr]    30 <@>                                      vedat
 #[tr]    50 <volkangezer@gmail.com>                  vgezer
 #[tr]    51 <yasarciv67@gmail.com>                   Yaşar Çiv
 
@@ -38,7 +38,6 @@ translator_7_nameEnglish = Sabri Ünal
 translator_7_contact = yakushabb@gmail.com
 
 translator_8_nameEnglish = vedat
-translator_8_contact = vedat@pisi_linux1.0
 
 translator_9_nameEnglish = vgezer
 translator_9_contact = volkangezer@gmail.com
