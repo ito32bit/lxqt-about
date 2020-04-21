@@ -18,6 +18,6 @@ for fp in $ts ; do
   outp=$outdir/translators_$lang.gitlog
   cd $dir
   echo "gitlog: $fn"
-  echo "F:$fn" >> $outp
+  echo -e "\nF:$fn" >> $outp
   git log --use-mailmap --no-merges --pretty=format:"%H" $fn | xargs -n1 git log -1 --numstat --shortstat --pretty=format:"H:%H%ns:%s%nA:%aN %aE%na:%an %ae%nD:%ai" >> $outp
 done
