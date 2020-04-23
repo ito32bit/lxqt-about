@@ -8,6 +8,7 @@
 #[el]     0 <capoiosct@gmail.com>                    Antonis Geralis
 #[el]  9455 <dglent@free.fr>                         Dimitrios Glentadakis
 #[el]     0 <iosifidis@opensuse.org>                 Efstathios Iosifidis
+#[el]    23 <k.agiannis@yandex.com>                  Konstantinos Agiannis
 
 translator_1_nameEnglish = Antonis Geralis
 translator_1_contact = capoiosct@gmail.com
@@ -17,4 +18,7 @@ translator_2_contact = dglent@free.fr
 
 translator_3_nameEnglish = Efstathios Iosifidis
 translator_3_contact = iosifidis@opensuse.org
+
+translator_4_nameEnglish = Konstantinos Agiannis
+translator_4_contact = k.agiannis@yandex.com
 

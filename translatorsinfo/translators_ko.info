@@ -5,16 +5,20 @@
 #
 
 #[Lang] Lines <Mail> Name
+#[ko]     2 <okjych@gmail.com>                       joonyoung choi
 #[ko]   418 <bagjunggyu@gmail.com>                   Jung-Kyu Park
 #[ko]     1 <2yoonj@naver.com>                       KOZ39
 #[ko]   210 <dan.oh0721@gmail.com>                   SeungheonOh
 
-translator_1_nameEnglish = Jung-Kyu Park
-translator_1_contact = bagjunggyu@gmail.com
+translator_1_nameEnglish = joonyoung choi
+translator_1_contact = okjych@gmail.com
 
-translator_2_nameEnglish = KOZ39
-translator_2_contact = 2yoonj@naver.com
+translator_2_nameEnglish = Jung-Kyu Park
+translator_2_contact = bagjunggyu@gmail.com
 
-translator_3_nameEnglish = SeungheonOh
-translator_3_contact = dan.oh0721@gmail.com
+translator_3_nameEnglish = KOZ39
+translator_3_contact = 2yoonj@naver.com
+
+translator_4_nameEnglish = SeungheonOh
+translator_4_contact = dan.oh0721@gmail.com
 

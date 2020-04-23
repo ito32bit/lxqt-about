@@ -13,6 +13,7 @@
 #[zh_CN]    54 <notname000@outlook.com>                 notname000
 #[zh_CN]     5 <pengxingwei@yahoo.com>                  pengxingwei
 #[zh_CN]     0 <1132321739qq@gmail.com>                 tuhaihe
+#[zh_CN]     2 <tuhaihe@icloud.com>                     tuhaihe
 #[zh_CN]   134 <shaojf2001@qq.com>                      Void_Null
 #[zh_CN]    48 <theyearthewas@gmail.com>                Yu Zhong
 #[zh_CN]    24 <zanyrain@outlook.com>                   ZanyRain
@@ -44,21 +45,24 @@ translator_7_contact = pengxingwei@yahoo.com
 translator_8_nameEnglish = tuhaihe
 translator_8_contact = 1132321739qq@gmail.com
 
-translator_9_nameEnglish = Void_Null
-translator_9_contact = shaojf2001@qq.com
+translator_9_nameEnglish = tuhaihe
+translator_9_contact = tuhaihe@icloud.com
 
-translator_10_nameEnglish = Yu Zhong
-translator_10_contact = theyearthewas@gmail.com
+translator_10_nameEnglish = Void_Null
+translator_10_contact = shaojf2001@qq.com
 
-translator_11_nameEnglish = ZanyRain
-translator_11_contact = zanyrain@outlook.com
+translator_11_nameEnglish = Yu Zhong
+translator_11_contact = theyearthewas@gmail.com
 
-translator_12_nameEnglish = zeng dabo
-translator_12_contact = zengdb@126.com
+translator_12_nameEnglish = ZanyRain
+translator_12_contact = zanyrain@outlook.com
 
-translator_13_nameEnglish = 水货
-translator_13_contact = 1365143958@qq.com
+translator_13_nameEnglish = zeng dabo
+translator_13_contact = zengdb@126.com
 
-translator_14_nameEnglish = 谭九鼎
-translator_14_contact = 109224573@qq.com
+translator_14_nameEnglish = 水货
+translator_14_contact = 1365143958@qq.com
+
+translator_15_nameEnglish = 谭九鼎
+translator_15_contact = 109224573@qq.com
 
