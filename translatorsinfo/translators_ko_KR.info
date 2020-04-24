@@ -6,11 +6,15 @@
 
 #[Lang] Lines <Mail> Name
 #[ko_KR]   841 <crazyraven@gmail.com>                   Hakyong Do
+#[ko_KR]     7 <okjych@gmail.com>                       joonyoung choi
 #[ko_KR]     2 <bagjunggyu@gmail.com>                   Jung-Kyu Park
 
 translator_1_nameEnglish = Hakyong Do
 translator_1_contact = crazyraven@gmail.com
 
-translator_2_nameEnglish = Jung-Kyu Park
-translator_2_contact = bagjunggyu@gmail.com
+translator_2_nameEnglish = joonyoung choi
+translator_2_contact = okjych@gmail.com
+
+translator_3_nameEnglish = Jung-Kyu Park
+translator_3_contact = bagjunggyu@gmail.com
 

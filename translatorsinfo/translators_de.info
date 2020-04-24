@@ -18,6 +18,7 @@
 #[de]   859 <oliver.burkardt@gmail.com>              Oliver Burkardt
 #[de]   169 <w45jr6y4ih@bzegi.anonbox.net>           p8q
 #[de]     1 <xpaolox@zoznam.sk>                      Paolo Vigoroso
+#[de]     1 <shlyak-pavel2011@ya.ru>                 Pavel Shlyak
 #[de]   865 <pmattern@arcor.de>                      Peter Mattern
 #[de]   568 <philipp.wiesemann@arcor.de>             Philipp Wiesemann
 #[de]     1 <scootergrisen@gmail.com>                scootergrisen
@@ -64,21 +65,24 @@ translator_12_contact = w45jr6y4ih@bzegi.anonbox.net
 translator_13_nameEnglish = Paolo Vigoroso
 translator_13_contact = xpaolox@zoznam.sk
 
-translator_14_nameEnglish = Peter Mattern
-translator_14_contact = pmattern@arcor.de
+translator_14_nameEnglish = Pavel Shlyak
+translator_14_contact = shlyak-pavel2011@ya.ru
 
-translator_15_nameEnglish = Philipp Wiesemann
-translator_15_contact = philipp.wiesemann@arcor.de
+translator_15_nameEnglish = Peter Mattern
+translator_15_contact = pmattern@arcor.de
 
-translator_16_nameEnglish = scootergrisen
-translator_16_contact = scootergrisen@gmail.com
+translator_16_nameEnglish = Philipp Wiesemann
+translator_16_contact = philipp.wiesemann@arcor.de
 
-translator_17_nameEnglish = Thomas Viehweger
-translator_17_contact = https://github.com/ThomasVie
+translator_17_nameEnglish = scootergrisen
+translator_17_contact = scootergrisen@gmail.com
 
-translator_18_nameEnglish = Tobias Marquardt
-translator_18_contact = tm@tobix.eu
+translator_18_nameEnglish = Thomas Viehweger
+translator_18_contact = https://github.com/ThomasVie
 
-translator_19_nameEnglish = ypnos
-translator_19_contact = github@lanrules.de
+translator_19_nameEnglish = Tobias Marquardt
+translator_19_contact = tm@tobix.eu
+
+translator_20_nameEnglish = ypnos
+translator_20_contact = github@lanrules.de
 
