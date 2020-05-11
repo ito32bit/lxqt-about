@@ -14,6 +14,8 @@
 #[tr]    74 <yakushabb@gmail.com>                    Sabri Ünal
 #[tr]    30 <@>                                      vedat
 #[tr]    50 <volkangezer@gmail.com>                  vgezer
+#[tr]  1793 <yasarciv@protonmail.com>                yasarciv67
+#[tr]   741 <https://github.com/yasarciv67>          Yaşar Çiv
 #[tr]    51 <yasarciv67@gmail.com>                   Yaşar Çiv
 
 translator_1_nameEnglish = Ayhan Yalçınsoy
@@ -42,6 +44,12 @@ translator_8_nameEnglish = vedat
 translator_9_nameEnglish = vgezer
 translator_9_contact = volkangezer@gmail.com
 
-translator_10_nameEnglish = Yaşar Çiv
-translator_10_contact = yasarciv67@gmail.com
+translator_10_nameEnglish = yasarciv67
+translator_10_contact = yasarciv@protonmail.com
+
+translator_11_nameEnglish = Yaşar Çiv
+translator_11_contact = https://github.com/yasarciv67
+
+translator_12_nameEnglish = Yaşar Çiv
+translator_12_contact = yasarciv67@gmail.com
 

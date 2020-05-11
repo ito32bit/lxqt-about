@@ -6,15 +6,19 @@
 
 #[Lang] Lines <Mail> Name
 #[hr]    62 <teoo987@protonmail.com>                 anotherus3r
+#[hr]   125 <https://github.com/milotype>            milotype
 #[hr]    48 <https://github.com/ThomasVie>           Thomas Viehweger
 #[hr]  1417 <ikoli@yahoo.com>                        zvacet
 
 translator_1_nameEnglish = anotherus3r
 translator_1_contact = teoo987@protonmail.com
 
-translator_2_nameEnglish = Thomas Viehweger
-translator_2_contact = https://github.com/ThomasVie
+translator_2_nameEnglish = milotype
+translator_2_contact = https://github.com/milotype
 
-translator_3_nameEnglish = zvacet
-translator_3_contact = ikoli@yahoo.com
+translator_3_nameEnglish = Thomas Viehweger
+translator_3_contact = https://github.com/ThomasVie
+
+translator_4_nameEnglish = zvacet
+translator_4_contact = ikoli@yahoo.com
 
