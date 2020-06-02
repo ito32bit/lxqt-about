@@ -10,6 +10,7 @@
 #[de]   644 <atalanttore@googlemail.com>             Ettore Atalan
 #[de]     1 <edwardtulane@gmx.de>                    Felix Brauße
 #[de]    15 <gcurse@web.de>                          gcurse
+#[de]    51 <ghostbunny@gmx.de>                      ghostbunny
 #[de]    64 <H.Humpel@gmx.de>                        H.Humpel
 #[de]  1061 <joern.schoenyan@web.de>                 JoernSchoenyan
 #[de]   555 <dbluelle@blau-weissoedingen.de>         Ludger Krämer
@@ -41,48 +42,51 @@ translator_4_contact = edwardtulane@gmx.de
 translator_5_nameEnglish = gcurse
 translator_5_contact = gcurse@web.de
 
-translator_6_nameEnglish = H.Humpel
-translator_6_contact = H.Humpel@gmx.de
+translator_6_nameEnglish = ghostbunny
+translator_6_contact = ghostbunny@gmx.de
 
-translator_7_nameEnglish = JoernSchoenyan
-translator_7_contact = joern.schoenyan@web.de
+translator_7_nameEnglish = H.Humpel
+translator_7_contact = H.Humpel@gmx.de
 
-translator_8_nameEnglish = Ludger Krämer
-translator_8_contact = dbluelle@blau-weissoedingen.de
+translator_8_nameEnglish = JoernSchoenyan
+translator_8_contact = joern.schoenyan@web.de
 
-translator_9_nameEnglish = Luís Pereira
-translator_9_contact = luis.artur.pereira@gmail.com
+translator_9_nameEnglish = Ludger Krämer
+translator_9_contact = dbluelle@blau-weissoedingen.de
 
-translator_10_nameEnglish = MiLeon
-translator_10_contact = michele.leo.colagrossi@gmail.com
+translator_10_nameEnglish = Luís Pereira
+translator_10_contact = luis.artur.pereira@gmail.com
 
-translator_11_nameEnglish = Oliver Burkardt
-translator_11_contact = oliver.burkardt@gmail.com
+translator_11_nameEnglish = MiLeon
+translator_11_contact = michele.leo.colagrossi@gmail.com
 
-translator_12_nameEnglish = p8q
-translator_12_contact = w45jr6y4ih@bzegi.anonbox.net
+translator_12_nameEnglish = Oliver Burkardt
+translator_12_contact = oliver.burkardt@gmail.com
 
-translator_13_nameEnglish = Paolo Vigoroso
-translator_13_contact = xpaolox@zoznam.sk
+translator_13_nameEnglish = p8q
+translator_13_contact = w45jr6y4ih@bzegi.anonbox.net
 
-translator_14_nameEnglish = Pavel Shlyak
-translator_14_contact = shlyak-pavel2011@ya.ru
+translator_14_nameEnglish = Paolo Vigoroso
+translator_14_contact = xpaolox@zoznam.sk
 
-translator_15_nameEnglish = Peter Mattern
-translator_15_contact = pmattern@arcor.de
+translator_15_nameEnglish = Pavel Shlyak
+translator_15_contact = shlyak-pavel2011@ya.ru
 
-translator_16_nameEnglish = Philipp Wiesemann
-translator_16_contact = philipp.wiesemann@arcor.de
+translator_16_nameEnglish = Peter Mattern
+translator_16_contact = pmattern@arcor.de
 
-translator_17_nameEnglish = scootergrisen
-translator_17_contact = scootergrisen@gmail.com
+translator_17_nameEnglish = Philipp Wiesemann
+translator_17_contact = philipp.wiesemann@arcor.de
 
-translator_18_nameEnglish = Thomas Viehweger
-translator_18_contact = https://github.com/ThomasVie
+translator_18_nameEnglish = scootergrisen
+translator_18_contact = scootergrisen@gmail.com
 
-translator_19_nameEnglish = Tobias Marquardt
-translator_19_contact = tm@tobix.eu
+translator_19_nameEnglish = Thomas Viehweger
+translator_19_contact = https://github.com/ThomasVie
 
-translator_20_nameEnglish = ypnos
-translator_20_contact = github@lanrules.de
+translator_20_nameEnglish = Tobias Marquardt
+translator_20_contact = tm@tobix.eu
+
+translator_21_nameEnglish = ypnos
+translator_21_contact = github@lanrules.de
 
