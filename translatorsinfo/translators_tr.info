@@ -17,7 +17,9 @@
 #[tr]    50 <volkangezer@gmail.com>                  vgezer
 #[tr]  1793 <yasarciv@protonmail.com>                yasarciv67
 #[tr]   741 <https://github.com/yasarciv67>          Yaşar Çiv
+#[tr]    48 <https://github.com/yasarciv>            Yaşar Çiv
 #[tr]    51 <yasarciv67@gmail.com>                   Yaşar Çiv
+#[tr]    11 <yasarciv@protonmail.com>                Yaşar Çiv
 
 translator_1_nameEnglish = Ayhan Yalçınsoy
 translator_1_contact = ayhanyalcinsoy@pisilinux.org
@@ -55,5 +57,11 @@ translator_12_nameEnglish = Yaşar Çiv
 translator_12_contact = https://github.com/yasarciv67
 
 translator_13_nameEnglish = Yaşar Çiv
-translator_13_contact = yasarciv67@gmail.com
+translator_13_contact = https://github.com/yasarciv
+
+translator_14_nameEnglish = Yaşar Çiv
+translator_14_contact = yasarciv67@gmail.com
+
+translator_15_nameEnglish = Yaşar Çiv
+translator_15_contact = yasarciv@protonmail.com
 
