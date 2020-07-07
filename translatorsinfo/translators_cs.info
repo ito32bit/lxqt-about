@@ -6,8 +6,8 @@
 
 #[Lang] Lines <Mail> Name
 #[cs]    20 <jaro.kratka@gmail.com>                  jaroslav kratka
-#[cs]  6089 <pavel.borecki@gmail.com>                p-bo
 #[cs]     1 <xpaolox@zoznam.sk>                      Paolo Vigoroso
+#[cs]  6089 <@>                                      Pavel Borecki
 #[cs]   241 <pavelfric@yahoo.com>                    Pavel Fric
 #[cs]     9 <petersz256@gmail.com>                   PeterSzakacs
 #[cs]    38 <kvvark@gmail.com>                       zen0bit
@@ -15,11 +15,10 @@
 translator_1_nameEnglish = jaroslav kratka
 translator_1_contact = jaro.kratka@gmail.com
 
-translator_2_nameEnglish = p-bo
-translator_2_contact = pavel.borecki@gmail.com
+translator_2_nameEnglish = Paolo Vigoroso
+translator_2_contact = xpaolox@zoznam.sk
 
-translator_3_nameEnglish = Paolo Vigoroso
-translator_3_contact = xpaolox@zoznam.sk
+translator_3_nameEnglish = Pavel Borecki
 
 translator_4_nameEnglish = Pavel Fric
 translator_4_contact = pavelfric@yahoo.com
