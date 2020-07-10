@@ -8,8 +8,9 @@
 #[ko]    26 <okjych@gmail.com>                       joonyoung choi
 #[ko]   418 <bagjunggyu@gmail.com>                   Jung-Kyu Park
 #[ko]     1 <2yoonj@naver.com>                       KOZ39
-#[ko]  2163 <https://github.com/shga89>              Seok Hyun, Ga
+#[ko]  2165 <https://github.com/shga89>              Seok Hyun, Ga
 #[ko]   210 <dan.oh0721@gmail.com>                   SeungheonOh
+#[ko]     1 <tsujan2000@gmail.com>                   Tsu Jan
 
 translator_1_nameEnglish = joonyoung choi
 translator_1_contact = okjych@gmail.com
@@ -25,4 +26,7 @@ translator_4_contact = https://github.com/shga89
 
 translator_5_nameEnglish = SeungheonOh
 translator_5_contact = dan.oh0721@gmail.com
+
+translator_6_nameEnglish = Tsu Jan
+translator_6_contact = tsujan2000@gmail.com
 
