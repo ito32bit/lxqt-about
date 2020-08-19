@@ -11,6 +11,7 @@
 #[it]     1 <https://github.com/ito32bit>            Masamichi Ito
 #[it]   989 <matteo.piazzolla@gmail.com>             Matteo Piazzolla
 #[it]  2034 <anothersms@gmail.com>                   Nicolò Balzarotti
+#[it]    29 <ste@vogliaditerra.com>                  Standreas
 #[it]    46 <stef.binde@riseup.net>                  Standreas
 #[it]  3017 <stef.binde@riseup.net>                  Stefano Binde
 #[it]   773 <smart2128@baslug.org>                   Vincenzo Reale
@@ -35,14 +36,17 @@ translator_6_nameEnglish = Nicolò Balzarotti
 translator_6_contact = anothersms@gmail.com
 
 translator_7_nameEnglish = Standreas
-translator_7_contact = stef.binde@riseup.net
+translator_7_contact = ste@vogliaditerra.com
 
-translator_8_nameEnglish = Stefano Binde
+translator_8_nameEnglish = Standreas
 translator_8_contact = stef.binde@riseup.net
 
-translator_9_nameEnglish = Vincenzo Reale
-translator_9_contact = smart2128@baslug.org
+translator_9_nameEnglish = Stefano Binde
+translator_9_contact = stef.binde@riseup.net
 
-translator_10_nameEnglish = xquiet
-translator_10_contact = matteo@mageia.it
+translator_10_nameEnglish = Vincenzo Reale
+translator_10_contact = smart2128@baslug.org
+
+translator_11_nameEnglish = xquiet
+translator_11_contact = matteo@mageia.it
 
