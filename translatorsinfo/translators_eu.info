@@ -6,6 +6,7 @@
 
 #[Lang] Lines <Mail> Name
 #[eu]   201 <asier.iturralde@gmail.com>              Asier Iturralde Sarasola
+#[eu]    11 <bipoza@gmail.com>                       Bittor Poza
 #[eu]    10 <eder@ollora.me>                         Eder
 #[eu]    48 <jaro.kratka@gmail.com>                  jaroslav kratka
 #[eu]    77 <lumintnian@outlook.com>                 Noumeno
@@ -13,12 +14,15 @@
 translator_1_nameEnglish = Asier Iturralde Sarasola
 translator_1_contact = asier.iturralde@gmail.com
 
-translator_2_nameEnglish = Eder
-translator_2_contact = eder@ollora.me
+translator_2_nameEnglish = Bittor Poza
+translator_2_contact = bipoza@gmail.com
 
-translator_3_nameEnglish = jaroslav kratka
-translator_3_contact = jaro.kratka@gmail.com
+translator_3_nameEnglish = Eder
+translator_3_contact = eder@ollora.me
 
-translator_4_nameEnglish = Noumeno
-translator_4_contact = lumintnian@outlook.com
+translator_4_nameEnglish = jaroslav kratka
+translator_4_contact = jaro.kratka@gmail.com
+
+translator_5_nameEnglish = Noumeno
+translator_5_contact = lumintnian@outlook.com
 
