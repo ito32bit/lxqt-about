@@ -8,9 +8,10 @@
 #[nl]    65 <aaimaai@zonnet.nl>                      Arie
 #[nl]    22 <jajadekroon@gmail.com>                  Jan Jasper de Kroon
 #[nl]   143 <pander@users.sourceforge.net>           Pander
-#[nl]   587 <pjotrvertaalt@gmail.com>                Pjotr Vertaalt
+#[nl]   591 <pjotrvertaalt@gmail.com>                Pjotr Vertaalt
 #[nl]     5 <ringodekroon@gmail.com>                 ringo32
 #[nl]     1 <roel.vercammen@gmail.com>               Roelio81
+#[nl]   153 <https://github.com/Thomas-N>            Thomas-N
 
 translator_1_nameEnglish = Arie
 translator_1_contact = aaimaai@zonnet.nl
@@ -29,4 +30,7 @@ translator_5_contact = ringodekroon@gmail.com
 
 translator_6_nameEnglish = Roelio81
 translator_6_contact = roel.vercammen@gmail.com
+
+translator_7_nameEnglish = Thomas-N
+translator_7_contact = https://github.com/Thomas-N
 

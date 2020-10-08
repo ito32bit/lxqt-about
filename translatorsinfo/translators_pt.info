@@ -8,10 +8,11 @@
 #[pt]   492 <eltonfabricio10@gmail.com>              eltonfabricio10
 #[pt]     5 <fabio.deolv@gmail.com>                  Fabio de Oliveira
 #[pt]     2 <machadofguilherme@gmail.com>            Guilherme Machado
-#[pt]   436 <luis.artur.pereira@gmail.com>           Luís Pereira
+#[pt]   439 <luis.artur.pereira@gmail.com>           Luís Pereira
+#[pt]     2 <https://github.com/mika-k>              Mika Kobayashi
 #[pt]     5 <renanrondon@live.com>                   Rrhapsod
 #[pt]     9 <doido-gato11@hotmail.com>               SrStick
-#[pt]  6686 <smarquespt@gmail.com>                   Sérgio Marques
+#[pt]  6794 <smarquespt@gmail.com>                   Sérgio Marques
 
 translator_1_nameEnglish = eltonfabricio10
 translator_1_contact = eltonfabricio10@gmail.com
@@ -25,12 +26,15 @@ translator_3_contact = machadofguilherme@gmail.com
 translator_4_nameEnglish = Luís Pereira
 translator_4_contact = luis.artur.pereira@gmail.com
 
-translator_5_nameEnglish = Rrhapsod
-translator_5_contact = renanrondon@live.com
+translator_5_nameEnglish = Mika Kobayashi
+translator_5_contact = https://github.com/mika-k
 
-translator_6_nameEnglish = SrStick
-translator_6_contact = doido-gato11@hotmail.com
+translator_6_nameEnglish = Rrhapsod
+translator_6_contact = renanrondon@live.com
 
-translator_7_nameEnglish = Sérgio Marques
-translator_7_contact = smarquespt@gmail.com
+translator_7_nameEnglish = SrStick
+translator_7_contact = doido-gato11@hotmail.com
+
+translator_8_nameEnglish = Sérgio Marques
+translator_8_contact = smarquespt@gmail.com
 
