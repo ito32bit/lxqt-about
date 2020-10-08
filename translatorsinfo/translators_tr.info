@@ -9,13 +9,14 @@
 #[tr]   114 <cihanalk@gmail.com>                     Aylinux
 #[tr]    19 <bhakyuz@gmail.com>                      Bahadır Han Akyüz
 #[tr]     1 <yan12125@gmail.com>                     Chih-Hsuan Yen
-#[tr]   104 <ercanersoy@ercanersoy.net>              Ercan Ersoy
+#[tr]     8 <mdemiray@msn.com>                       Demiray
+#[tr]   108 <ercanersoy@ercanersoy.net>              Ercan Ersoy
 #[tr]     3 <krc440002@gmail.com>                    Furkan K
 #[tr]    12 <obendevin@gmail.com>                    Oben Devin Çetiner
 #[tr]    74 <yakushabb@gmail.com>                    Sabri Ünal
 #[tr]    30 <@>                                      vedat
 #[tr]    50 <volkangezer@gmail.com>                  vgezer
-#[tr]  2664 <@>                                      Yaşar Çiv
+#[tr]  2763 <@>                                      Yaşar Çiv
 
 translator_1_nameEnglish = Ayhan Yalçınsoy
 translator_1_contact = ayhanyalcinsoy@pisilinux.org
@@ -29,22 +30,25 @@ translator_3_contact = bhakyuz@gmail.com
 translator_4_nameEnglish = Chih-Hsuan Yen
 translator_4_contact = yan12125@gmail.com
 
-translator_5_nameEnglish = Ercan Ersoy
-translator_5_contact = ercanersoy@ercanersoy.net
+translator_5_nameEnglish = Demiray
+translator_5_contact = mdemiray@msn.com
 
-translator_6_nameEnglish = Furkan K
-translator_6_contact = krc440002@gmail.com
+translator_6_nameEnglish = Ercan Ersoy
+translator_6_contact = ercanersoy@ercanersoy.net
 
-translator_7_nameEnglish = Oben Devin Çetiner
-translator_7_contact = obendevin@gmail.com
+translator_7_nameEnglish = Furkan K
+translator_7_contact = krc440002@gmail.com
 
-translator_8_nameEnglish = Sabri Ünal
-translator_8_contact = yakushabb@gmail.com
+translator_8_nameEnglish = Oben Devin Çetiner
+translator_8_contact = obendevin@gmail.com
 
-translator_9_nameEnglish = vedat
+translator_9_nameEnglish = Sabri Ünal
+translator_9_contact = yakushabb@gmail.com
 
-translator_10_nameEnglish = vgezer
-translator_10_contact = volkangezer@gmail.com
+translator_10_nameEnglish = vedat
 
-translator_11_nameEnglish = Yaşar Çiv
+translator_11_nameEnglish = vgezer
+translator_11_contact = volkangezer@gmail.com
+
+translator_12_nameEnglish = Yaşar Çiv
 

@@ -9,9 +9,10 @@
 #[fr]     1 <butterflyoffire@protonmail.com>         ButterflyOfFire
 #[fr]    12 <schwancarl@protonmail.com>              Carl Schwan
 #[fr]    11 <fabien.wang@gmail.com>                  Fabien Wang
-#[fr]  1784 <paiiou@free.fr>                         Georges Eckenschwiller
+#[fr]  1924 <paiiou@free.fr>                         Georges Eckenschwiller
 #[fr]     2 <gpenverne@gmail.com>                    gpenverne
 #[fr]    59 <herve.dubois@vivaldi.net>               herve
+#[fr]    19 <github@lionelchanson.fr>                Lionel Chanson
 #[fr]   124 <cliqloth64@gnous.eu>                    LothaireCliquennois
 #[fr]     4 <nicolas.pierre.miller@gmail.com>        npmiller
 #[fr]     8 <yves.brungard_git@gadz.org>             Papoteur
@@ -41,24 +42,27 @@ translator_6_contact = gpenverne@gmail.com
 translator_7_nameEnglish = herve
 translator_7_contact = herve.dubois@vivaldi.net
 
-translator_8_nameEnglish = LothaireCliquennois
-translator_8_contact = cliqloth64@gnous.eu
+translator_8_nameEnglish = Lionel Chanson
+translator_8_contact = github@lionelchanson.fr
 
-translator_9_nameEnglish = npmiller
-translator_9_contact = nicolas.pierre.miller@gmail.com
+translator_9_nameEnglish = LothaireCliquennois
+translator_9_contact = cliqloth64@gnous.eu
 
-translator_10_nameEnglish = Papoteur
-translator_10_contact = yves.brungard_git@gadz.org
+translator_10_nameEnglish = npmiller
+translator_10_contact = nicolas.pierre.miller@gmail.com
 
-translator_11_nameEnglish = pols12
-translator_11_contact = poltron54@gmail.com
+translator_11_nameEnglish = Papoteur
+translator_11_contact = yves.brungard_git@gadz.org
 
-translator_12_nameEnglish = Raphaël Bazaud
-translator_12_contact = rbazaud@gmail.com
+translator_12_nameEnglish = pols12
+translator_12_contact = poltron54@gmail.com
 
-translator_13_nameEnglish = roxfr
-translator_13_contact = roxfr@outlook.fr
+translator_13_nameEnglish = Raphaël Bazaud
+translator_13_contact = rbazaud@gmail.com
 
-translator_14_nameEnglish = titiracoon
-translator_14_contact = titirac00n@free.fr
+translator_14_nameEnglish = roxfr
+translator_14_contact = roxfr@outlook.fr
+
+translator_15_nameEnglish = titiracoon
+translator_15_contact = titirac00n@free.fr
 
