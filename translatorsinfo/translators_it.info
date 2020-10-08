@@ -8,6 +8,7 @@
 #[it]    30 <daniele@forsi.it>                       dforsi
 #[it]   219 <emanueleant03@gmail.com>                Emanuele Antonio Faraone
 #[it]     9 <kintah@protonmail.ch>                   Kintah
+#[it]     1 <https://github.com/LXQtBot>             LXQtBot
 #[it]     1 <https://github.com/ito32bit>            Masamichi Ito
 #[it]   989 <matteo.piazzolla@gmail.com>             Matteo Piazzolla
 #[it]  2034 <anothersms@gmail.com>                   Nicolò Balzarotti
@@ -26,27 +27,30 @@ translator_2_contact = emanueleant03@gmail.com
 translator_3_nameEnglish = Kintah
 translator_3_contact = kintah@protonmail.ch
 
-translator_4_nameEnglish = Masamichi Ito
-translator_4_contact = https://github.com/ito32bit
+translator_4_nameEnglish = LXQtBot
+translator_4_contact = https://github.com/LXQtBot
 
-translator_5_nameEnglish = Matteo Piazzolla
-translator_5_contact = matteo.piazzolla@gmail.com
+translator_5_nameEnglish = Masamichi Ito
+translator_5_contact = https://github.com/ito32bit
 
-translator_6_nameEnglish = Nicolò Balzarotti
-translator_6_contact = anothersms@gmail.com
+translator_6_nameEnglish = Matteo Piazzolla
+translator_6_contact = matteo.piazzolla@gmail.com
 
-translator_7_nameEnglish = Standreas
-translator_7_contact = ste@vogliaditerra.com
+translator_7_nameEnglish = Nicolò Balzarotti
+translator_7_contact = anothersms@gmail.com
 
 translator_8_nameEnglish = Standreas
-translator_8_contact = stef.binde@riseup.net
+translator_8_contact = ste@vogliaditerra.com
 
-translator_9_nameEnglish = Stefano Binde
+translator_9_nameEnglish = Standreas
 translator_9_contact = stef.binde@riseup.net
 
-translator_10_nameEnglish = Vincenzo Reale
-translator_10_contact = smart2128@baslug.org
+translator_10_nameEnglish = Stefano Binde
+translator_10_contact = stef.binde@riseup.net
 
-translator_11_nameEnglish = xquiet
-translator_11_contact = matteo@mageia.it
+translator_11_nameEnglish = Vincenzo Reale
+translator_11_contact = smart2128@baslug.org
+
+translator_12_nameEnglish = xquiet
+translator_12_contact = matteo@mageia.it
 
