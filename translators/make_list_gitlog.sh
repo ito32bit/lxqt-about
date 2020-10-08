@@ -6,15 +6,17 @@ outdir=$base/../list
 
 cd $base
 ts=`find . -name *_*$1.ts`
+desktop=`find . -name *_*$1.desktop`
+directory=`find . -name *_*$1.directory`
 rm -vf $outdir/translators_*$1.gitlog
 
-for fp in $ts ; do
+for fp in $ts $desktop $directory; do
   cd $base
   dir=${fp%/*}
   fn=${fp##*/}
 
   lang=${fp#*_}
-  lang=${lang%.ts}
+  lang=${lang%.*}
   outp=$outdir/translators_$lang.gitlog
   cd $dir
   echo "gitlog: $fn"
