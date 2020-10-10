@@ -10,6 +10,7 @@
 #[it]     9 <kintah@protonmail.ch>                   Kintah
 #[it]   989 <matteo.piazzolla@gmail.com>             Matteo Piazzolla
 #[it]  2034 <anothersms@gmail.com>                   Nicolò Balzarotti
+#[it]     8 <standreas@riseup.net>                   Standreas
 #[it]  3218 <ste@vogliaditerra.com>                  Standreas
 #[it]   778 <smart2128@baslug.org>                   Vincenzo Reale
 #[it]   355 <matteo@mageia.it>                       xquiet
@@ -30,11 +31,14 @@ translator_5_nameEnglish = Nicolò Balzarotti
 translator_5_contact = anothersms@gmail.com
 
 translator_6_nameEnglish = Standreas
-translator_6_contact = ste@vogliaditerra.com
+translator_6_contact = standreas@riseup.net
 
-translator_7_nameEnglish = Vincenzo Reale
-translator_7_contact = smart2128@baslug.org
+translator_7_nameEnglish = Standreas
+translator_7_contact = ste@vogliaditerra.com
 
-translator_8_nameEnglish = xquiet
-translator_8_contact = matteo@mageia.it
+translator_8_nameEnglish = Vincenzo Reale
+translator_8_contact = smart2128@baslug.org
+
+translator_9_nameEnglish = xquiet
+translator_9_contact = matteo@mageia.it
 
