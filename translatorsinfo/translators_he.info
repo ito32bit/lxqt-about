@@ -6,11 +6,15 @@
 
 #[Lang] Lines <Mail> Name
 #[he]   287 <https://github.com/omeritzics>          Omer I.S
+#[he]    21 <omeritzicschwartz@gmail.com>            Omer I.S
 #[he] 12468 <sh.yaron@gmail.com>                     Yaron Shahrabani
 
 translator_1_nameEnglish = Omer I.S
 translator_1_contact = https://github.com/omeritzics
 
-translator_2_nameEnglish = Yaron Shahrabani
-translator_2_contact = sh.yaron@gmail.com
+translator_2_nameEnglish = Omer I.S
+translator_2_contact = omeritzicschwartz@gmail.com
+
+translator_3_nameEnglish = Yaron Shahrabani
+translator_3_contact = sh.yaron@gmail.com
 
