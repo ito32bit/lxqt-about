@@ -11,6 +11,7 @@
 #[hu]    67 <vht2017@vivaldi.net>                    Gabor Ganzer jr
 #[hu]    28 <ste@vogliaditerra.com>                  Standreas
 #[hu]   711 <https://github.com/zoli111>             zoli111
+#[hu]    16 <acszoltan111@gmail.com>                 zoli111
 #[hu]  5085 <acszoltan111@gmail.com>                 Ács Zoltán
 
 translator_1_nameEnglish = -
@@ -31,6 +32,9 @@ translator_5_contact = ste@vogliaditerra.com
 translator_6_nameEnglish = zoli111
 translator_6_contact = https://github.com/zoli111
 
-translator_7_nameEnglish = Ács Zoltán
+translator_7_nameEnglish = zoli111
 translator_7_contact = acszoltan111@gmail.com
+
+translator_8_nameEnglish = Ács Zoltán
+translator_8_contact = acszoltan111@gmail.com
 
