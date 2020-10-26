@@ -6,15 +6,7 @@
 
 #[Lang] Lines <Mail> Name
 #[ru_RU]     4 <bazarassa@gmail.com>                    bazarassa
-#[ru_RU]     3 <kraskden.net@ya.ru>                     Denis Kraskovsky
-#[ru_RU]    17 <yast4ik@gmail.com>                      Ilya87
 
 translator_1_nameEnglish = bazarassa
 translator_1_contact = bazarassa@gmail.com
-
-translator_2_nameEnglish = Denis Kraskovsky
-translator_2_contact = kraskden.net@ya.ru
-
-translator_3_nameEnglish = Ilya87
-translator_3_contact = yast4ik@gmail.com
 
