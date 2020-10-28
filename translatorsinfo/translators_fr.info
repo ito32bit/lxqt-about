@@ -6,6 +6,7 @@
 
 #[Lang] Lines <Mail> Name
 #[fr]     1 <mail@ad5001.eu>                         Ad5001
+#[fr]    16 <baptistehuchon17@gmail.com>             Baptiste Huchon
 #[fr]     1 <butterflyoffire@protonmail.com>         ButterflyOfFire
 #[fr]    12 <schwancarl@protonmail.com>              Carl Schwan
 #[fr]    11 <fabien.wang@gmail.com>                  Fabien Wang
@@ -24,45 +25,48 @@
 translator_1_nameEnglish = Ad5001
 translator_1_contact = mail@ad5001.eu
 
-translator_2_nameEnglish = ButterflyOfFire
-translator_2_contact = butterflyoffire@protonmail.com
+translator_2_nameEnglish = Baptiste Huchon
+translator_2_contact = baptistehuchon17@gmail.com
 
-translator_3_nameEnglish = Carl Schwan
-translator_3_contact = schwancarl@protonmail.com
+translator_3_nameEnglish = ButterflyOfFire
+translator_3_contact = butterflyoffire@protonmail.com
 
-translator_4_nameEnglish = Fabien Wang
-translator_4_contact = fabien.wang@gmail.com
+translator_4_nameEnglish = Carl Schwan
+translator_4_contact = schwancarl@protonmail.com
 
-translator_5_nameEnglish = Georges Eckenschwiller
-translator_5_contact = paiiou@free.fr
+translator_5_nameEnglish = Fabien Wang
+translator_5_contact = fabien.wang@gmail.com
 
-translator_6_nameEnglish = gpenverne
-translator_6_contact = gpenverne@gmail.com
+translator_6_nameEnglish = Georges Eckenschwiller
+translator_6_contact = paiiou@free.fr
 
-translator_7_nameEnglish = herve
-translator_7_contact = herve.dubois@vivaldi.net
+translator_7_nameEnglish = gpenverne
+translator_7_contact = gpenverne@gmail.com
 
-translator_8_nameEnglish = Lionel Chanson
-translator_8_contact = github@lionelchanson.fr
+translator_8_nameEnglish = herve
+translator_8_contact = herve.dubois@vivaldi.net
 
-translator_9_nameEnglish = LothaireCliquennois
-translator_9_contact = cliqloth64@gnous.eu
+translator_9_nameEnglish = Lionel Chanson
+translator_9_contact = github@lionelchanson.fr
 
-translator_10_nameEnglish = npmiller
-translator_10_contact = nicolas.pierre.miller@gmail.com
+translator_10_nameEnglish = LothaireCliquennois
+translator_10_contact = cliqloth64@gnous.eu
 
-translator_11_nameEnglish = Papoteur
-translator_11_contact = yves.brungard_git@gadz.org
+translator_11_nameEnglish = npmiller
+translator_11_contact = nicolas.pierre.miller@gmail.com
 
-translator_12_nameEnglish = pols12
-translator_12_contact = poltron54@gmail.com
+translator_12_nameEnglish = Papoteur
+translator_12_contact = yves.brungard_git@gadz.org
 
-translator_13_nameEnglish = Raphaël Bazaud
-translator_13_contact = rbazaud@gmail.com
+translator_13_nameEnglish = pols12
+translator_13_contact = poltron54@gmail.com
 
-translator_14_nameEnglish = roxfr
-translator_14_contact = roxfr@outlook.fr
+translator_14_nameEnglish = Raphaël Bazaud
+translator_14_contact = rbazaud@gmail.com
 
-translator_15_nameEnglish = titiracoon
-translator_15_contact = titirac00n@free.fr
+translator_15_nameEnglish = roxfr
+translator_15_contact = roxfr@outlook.fr
+
+translator_16_nameEnglish = titiracoon
+translator_16_contact = titirac00n@free.fr
 

@@ -7,7 +7,7 @@
 #[Lang] Lines <Mail> Name
 #[de]  1695 <agaida@siduction.org>                   Alf Gaida
 #[de]    64 <d@winzen4.de>                           DanWin
-#[de]   644 <atalanttore@googlemail.com>             Ettore Atalan
+#[de]   661 <atalanttore@googlemail.com>             Ettore Atalan
 #[de]     1 <edwardtulane@gmx.de>                    Felix Brauße
 #[de]    15 <gcurse@web.de>                          gcurse
 #[de]    51 <ghostbunny@gmx.de>                      ghostbunny
@@ -25,6 +25,7 @@
 #[de]     1 <scootergrisen@gmail.com>                scootergrisen
 #[de]  4156 <https://github.com/ThomasVie>           Thomas Viehweger
 #[de]    81 <tm@tobix.eu>                            Tobias Marquardt
+#[de]     5 <noreply@weblate.org>                    Weblate
 #[de]    93 <github@lanrules.de>                     ypnos
 
 translator_1_nameEnglish = Alf Gaida
@@ -87,6 +88,9 @@ translator_19_contact = https://github.com/ThomasVie
 translator_20_nameEnglish = Tobias Marquardt
 translator_20_contact = tm@tobix.eu
 
-translator_21_nameEnglish = ypnos
-translator_21_contact = github@lanrules.de
+translator_21_nameEnglish = Weblate
+translator_21_contact = noreply@weblate.org
+
+translator_22_nameEnglish = ypnos
+translator_22_contact = github@lanrules.de
 
