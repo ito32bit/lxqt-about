@@ -13,6 +13,7 @@
 #[pt_BR]   122 <machadofguilherme@gmail.com>            Guilherme Machado
 #[pt_BR]     8 <helio@kde.org>                          Helio Chissini de Castro
 #[pt_BR]    35 <jorge.adriano.ca@gmail.com>             hovergloves
+#[pt_BR]     3 <pulgovisk@protonmail.com>               João Paulo Pulga
 #[pt_BR]    17 <keomab@gmail.com>                       keomaborges
 #[pt_BR]     2 <leandroembu@gmail.com>                  Leandro Ramos
 #[pt_BR]   103 <leolimajc@gmail.com>                    Leo
@@ -54,51 +55,54 @@ translator_7_contact = helio@kde.org
 translator_8_nameEnglish = hovergloves
 translator_8_contact = jorge.adriano.ca@gmail.com
 
-translator_9_nameEnglish = keomaborges
-translator_9_contact = keomab@gmail.com
+translator_9_nameEnglish = João Paulo Pulga
+translator_9_contact = pulgovisk@protonmail.com
 
-translator_10_nameEnglish = Leandro Ramos
-translator_10_contact = leandroembu@gmail.com
+translator_10_nameEnglish = keomaborges
+translator_10_contact = keomab@gmail.com
 
-translator_11_nameEnglish = Leo
-translator_11_contact = leolimajc@gmail.com
+translator_11_nameEnglish = Leandro Ramos
+translator_11_contact = leandroembu@gmail.com
 
-translator_12_nameEnglish = Lucas A. V. Dantas
-translator_12_contact = lucasdantas@yandex.com
+translator_12_nameEnglish = Leo
+translator_12_contact = leolimajc@gmail.com
 
-translator_13_nameEnglish = macarini2018
-translator_13_contact = andrey.macarini@gmail.com
+translator_13_nameEnglish = Lucas A. V. Dantas
+translator_13_contact = lucasdantas@yandex.com
 
-translator_14_nameEnglish = Matheus Victor
-translator_14_contact = matheusvictorgomes1@gmail.com
+translator_14_nameEnglish = macarini2018
+translator_14_contact = andrey.macarini@gmail.com
 
-translator_15_nameEnglish = Márcio Moraes
-translator_15_contact = marciopanto@gmail.com
+translator_15_nameEnglish = Matheus Victor
+translator_15_contact = matheusvictorgomes1@gmail.com
 
-translator_16_nameEnglish = pinportal
-translator_16_contact = pinportal@msn.com
+translator_16_nameEnglish = Márcio Moraes
+translator_16_contact = marciopanto@gmail.com
 
-translator_17_nameEnglish = Rafael Neri
-translator_17_contact = rafepel@gmail.com
+translator_17_nameEnglish = pinportal
+translator_17_contact = pinportal@msn.com
 
-translator_18_nameEnglish = Ruan O. Lima
-translator_18_contact = loruanschool@gmail.com
+translator_18_nameEnglish = Rafael Neri
+translator_18_contact = rafepel@gmail.com
 
-translator_19_nameEnglish = Ruan Oliveira Lima
-translator_19_contact = debianuser.ruan.oliveira.lima@gmail.com
+translator_19_nameEnglish = Ruan O. Lima
+translator_19_contact = loruanschool@gmail.com
 
-translator_20_nameEnglish = SrStick
-translator_20_contact = doido-gato11@hotmail.com
+translator_20_nameEnglish = Ruan Oliveira Lima
+translator_20_contact = debianuser.ruan.oliveira.lima@gmail.com
 
-translator_21_nameEnglish = Valter Nazianzeno
-translator_21_contact = manipuladordedados@gmail.com
+translator_21_nameEnglish = SrStick
+translator_21_contact = doido-gato11@hotmail.com
 
-translator_22_nameEnglish = Vitória Helena
-translator_22_contact = vitoriahmc@al.insper.edu.br
+translator_22_nameEnglish = Valter Nazianzeno
+translator_22_contact = manipuladordedados@gmail.com
 
-translator_23_nameEnglish = Weriton Goes
-translator_23_contact = werigoes@gmail.com
+translator_23_nameEnglish = Vitória Helena
+translator_23_contact = vitoriahmc@al.insper.edu.br
 
-translator_24_nameEnglish = Ynsano
-translator_24_contact = danielcalderan.jau@gmail.com
+translator_24_nameEnglish = Weriton Goes
+translator_24_contact = werigoes@gmail.com
+
+translator_25_nameEnglish = Ynsano
+translator_25_contact = danielcalderan.jau@gmail.com
 
