@@ -8,6 +8,7 @@
 #[es]   114 <alfredo.ramos@yandex.com>               Alfredo Ramos
 #[es]     6 <jacobo@redcomponent.com>                clinchergt
 #[es]     0 <zballinita@gmail.com>                   Francisco Ballina Sanchez
+#[es]     3 <fmanriqueznovoa@gmail.com>              Francisco Manríquez Novoa
 #[es]     1 <glpz@daxslab.com>                       Gabriel A. López López
 #[es]     3 <isseigx@protonmail.ch>                  Gabriel Retana
 #[es]    32 <hmoller@uc.cl>                          hmollercl
@@ -33,48 +34,51 @@ translator_2_contact = jacobo@redcomponent.com
 translator_3_nameEnglish = Francisco Ballina Sanchez
 translator_3_contact = zballinita@gmail.com
 
-translator_4_nameEnglish = Gabriel A. López López
-translator_4_contact = glpz@daxslab.com
+translator_4_nameEnglish = Francisco Manríquez Novoa
+translator_4_contact = fmanriqueznovoa@gmail.com
 
-translator_5_nameEnglish = Gabriel Retana
-translator_5_contact = isseigx@protonmail.ch
+translator_5_nameEnglish = Gabriel A. López López
+translator_5_contact = glpz@daxslab.com
 
-translator_6_nameEnglish = hmollercl
-translator_6_contact = hmoller@uc.cl
+translator_6_nameEnglish = Gabriel Retana
+translator_6_contact = isseigx@protonmail.ch
 
-translator_7_nameEnglish = Jair López
-translator_7_contact = jairlopez@etca.com.ve
+translator_7_nameEnglish = hmollercl
+translator_7_contact = hmoller@uc.cl
 
-translator_8_nameEnglish = Jorge Merlino
-translator_8_contact = jorge.merlino@gmail.com
+translator_8_nameEnglish = Jair López
+translator_8_contact = jairlopez@etca.com.ve
 
-translator_9_nameEnglish = Juan Emilio Lama Salas
-translator_9_contact = jels1988@gmail.com
+translator_9_nameEnglish = Jorge Merlino
+translator_9_contact = jorge.merlino@gmail.com
 
-translator_10_nameEnglish = Matías
-translator_10_contact = colonizare@yahoo.com.ar
+translator_10_nameEnglish = Juan Emilio Lama Salas
+translator_10_contact = jels1988@gmail.com
 
-translator_11_nameEnglish = Maximiliano Dvyhailo
-translator_11_contact = zondadark@gmail.com
+translator_11_nameEnglish = Matías
+translator_11_contact = colonizare@yahoo.com.ar
 
-translator_12_nameEnglish = micrococo
-translator_12_contact = micrococo@gmx.com
+translator_12_nameEnglish = Maximiliano Dvyhailo
+translator_12_contact = zondadark@gmail.com
 
-translator_13_nameEnglish = P.L. Lucas
-translator_13_contact = selairi@gmail.com
+translator_13_nameEnglish = micrococo
+translator_13_contact = micrococo@gmx.com
 
-translator_14_nameEnglish = pisculichi
-translator_14_contact = pisculichi@openmailbox.org
+translator_14_nameEnglish = P.L. Lucas
+translator_14_contact = selairi@gmail.com
 
-translator_15_nameEnglish = Robert Schneider
-translator_15_contact = robertschv@hotmail.com
+translator_15_nameEnglish = pisculichi
+translator_15_contact = pisculichi@openmailbox.org
 
-translator_16_nameEnglish = Roberto Alzaga
-translator_16_contact = lumintnian@outlook.com
+translator_16_nameEnglish = Robert Schneider
+translator_16_contact = robertschv@hotmail.com
 
-translator_17_nameEnglish = Toni Estevez
-translator_17_contact = toni.estevez@gmail.com
+translator_17_nameEnglish = Roberto Alzaga
+translator_17_contact = lumintnian@outlook.com
 
-translator_18_nameEnglish = yo
-translator_18_contact = yo@ejemplo.com
+translator_18_nameEnglish = Toni Estevez
+translator_18_contact = toni.estevez@gmail.com
+
+translator_19_nameEnglish = yo
+translator_19_contact = yo@ejemplo.com
 

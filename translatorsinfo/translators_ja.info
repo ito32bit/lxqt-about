@@ -10,10 +10,11 @@
 #[ja]     1 <ikunya@gmail.com>                       Ikuya AWASHIRO
 #[ja]    37 <hatori@hatochan.dyndns.org>             Kentaro Hatori
 #[ja]     3 <takum819@gmail.com>                     KuinaMchael
-#[ja]  5770 <https://github.com/ito32bit>            Masamichi Ito
+#[ja]  5771 <https://github.com/ito32bit>            Masamichi Ito
 #[ja]  3609 <https://github.com/mika-k>              Mika Kobayashi
 #[ja]   966 <u_ho_@msn.com>                          Ryuho Kumagai
 #[ja]   143 <take1975@kumamoto.email.ne.jp>          Takefumi Nagata
+#[ja]     1 <noreply@weblate.org>                    Weblate
 
 translator_1_nameEnglish = daiki-sato
 translator_1_contact = ds@g.doew.jp
@@ -41,4 +42,7 @@ translator_8_contact = u_ho_@msn.com
 
 translator_9_nameEnglish = Takefumi Nagata
 translator_9_contact = take1975@kumamoto.email.ne.jp
+
+translator_10_nameEnglish = Weblate
+translator_10_contact = noreply@weblate.org
 
