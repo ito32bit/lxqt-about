@@ -12,6 +12,7 @@
 #[it]  2034 <anothersms@gmail.com>                   Nicolò Balzarotti
 #[it]    11 <standreas@riseup.net>                   Standreas
 #[it]  3232 <ste@vogliaditerra.com>                  Standreas
+#[it]     5 <steff@vogliaditerra.com>                Stefonarch
 #[it]   778 <smart2128@baslug.org>                   Vincenzo Reale
 #[it]   355 <matteo@mageia.it>                       xquiet
 
@@ -36,9 +37,12 @@ translator_6_contact = standreas@riseup.net
 translator_7_nameEnglish = Standreas
 translator_7_contact = ste@vogliaditerra.com
 
-translator_8_nameEnglish = Vincenzo Reale
-translator_8_contact = smart2128@baslug.org
+translator_8_nameEnglish = Stefonarch
+translator_8_contact = steff@vogliaditerra.com
 
-translator_9_nameEnglish = xquiet
-translator_9_contact = matteo@mageia.it
+translator_9_nameEnglish = Vincenzo Reale
+translator_9_contact = smart2128@baslug.org
+
+translator_10_nameEnglish = xquiet
+translator_10_contact = matteo@mageia.it
 
