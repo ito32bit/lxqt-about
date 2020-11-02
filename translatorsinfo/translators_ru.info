@@ -17,6 +17,7 @@
 #[ru]   554 <f2404@yandex.ru>                        Igor
 #[ru]    40 <igor@ziv.org.ru>                        igor
 #[ru]  7930 <yast4ik@gmail.com>                      Ilya87
+#[ru]     6 <andreikorda@gmail.com>                  Korda Andrii
 #[ru]     3 <misha10311@yandex.ru>                   Ky3He4iK
 #[ru]     0 <gruz103@gmail.com>                      Oleg Maximov
 #[ru]    30 <shlyak-pavel2011@ya.ru>                 Pavel Shlyak
@@ -60,21 +61,24 @@ translator_11_contact = igor@ziv.org.ru
 translator_12_nameEnglish = Ilya87
 translator_12_contact = yast4ik@gmail.com
 
-translator_13_nameEnglish = Ky3He4iK
-translator_13_contact = misha10311@yandex.ru
+translator_13_nameEnglish = Korda Andrii
+translator_13_contact = andreikorda@gmail.com
 
-translator_14_nameEnglish = Oleg Maximov
-translator_14_contact = gruz103@gmail.com
+translator_14_nameEnglish = Ky3He4iK
+translator_14_contact = misha10311@yandex.ru
 
-translator_15_nameEnglish = Pavel Shlyak
-translator_15_contact = shlyak-pavel2011@ya.ru
+translator_15_nameEnglish = Oleg Maximov
+translator_15_contact = gruz103@gmail.com
 
-translator_16_nameEnglish = Schwonder Reismus
-translator_16_contact = schw0reismus@protonmail.com
+translator_16_nameEnglish = Pavel Shlyak
+translator_16_contact = shlyak-pavel2011@ya.ru
 
-translator_17_nameEnglish = Stepan Kashuba
-translator_17_contact = ihaterabbids@gmail.com
+translator_17_nameEnglish = Schwonder Reismus
+translator_17_contact = schw0reismus@protonmail.com
 
-translator_18_nameEnglish = Николай Смольянинов
-translator_18_contact = smolianinow.colya2016@yandex.ru
+translator_18_nameEnglish = Stepan Kashuba
+translator_18_contact = ihaterabbids@gmail.com
+
+translator_19_nameEnglish = Николай Смольянинов
+translator_19_contact = smolianinow.colya2016@yandex.ru
 
