@@ -8,7 +8,6 @@
 #[uk]     0 <Kuzma.Shapran@gmail.com>                Kuzma Shapran
 #[uk]     0 <admin@dvizho.ks.ua>                     Rax Garfield
 #[uk]    11 <sergey.kuya@gmail.com>                  Sergey Popov
-#[uk]    15 <serhiy2006@meta.ua>                     Sergii Shyran
 #[uk]    65 <serhiy.int@gmail.com>                   Serhiy Zahoriya
 #[uk]    11 <evan.marko@outlook.com>                 TheOneCode
 #[uk]     0 <golovko.vlad@gmail.com>                 Vlad Golovko
@@ -22,15 +21,12 @@ translator_2_contact = admin@dvizho.ks.ua
 translator_3_nameEnglish = Sergey Popov
 translator_3_contact = sergey.kuya@gmail.com
 
-translator_4_nameEnglish = Sergii Shyran
-translator_4_contact = serhiy2006@meta.ua
+translator_4_nameEnglish = Serhiy Zahoriya
+translator_4_contact = serhiy.int@gmail.com
 
-translator_5_nameEnglish = Serhiy Zahoriya
-translator_5_contact = serhiy.int@gmail.com
+translator_5_nameEnglish = TheOneCode
+translator_5_contact = evan.marko@outlook.com
 
-translator_6_nameEnglish = TheOneCode
-translator_6_contact = evan.marko@outlook.com
-
-translator_7_nameEnglish = Vlad Golovko
-translator_7_contact = golovko.vlad@gmail.com
+translator_6_nameEnglish = Vlad Golovko
+translator_6_contact = golovko.vlad@gmail.com
 
