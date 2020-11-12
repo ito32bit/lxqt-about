@@ -5,11 +5,10 @@
 #
 
 #[Lang] Lines <Mail> Name
-#[ko]    26 <okjych@gmail.com>                       joonyoung choi
+#[ko]     2 <okjych@gmail.com>                       joonyoung choi
 #[ko]   418 <bagjunggyu@gmail.com>                   Jung-Kyu Park
 #[ko]     1 <2yoonj@naver.com>                       KOZ39
 #[ko]  3901 <https://github.com/shga89>              Seok Hyun, Ga
-#[ko]   210 <dan.oh0721@gmail.com>                   SeungheonOh
 #[ko]     6 <simon@tsimonq2.net>                     Simon Quigley
 
 translator_1_nameEnglish = joonyoung choi
@@ -24,9 +23,6 @@ translator_3_contact = 2yoonj@naver.com
 translator_4_nameEnglish = Seok Hyun, Ga
 translator_4_contact = https://github.com/shga89
 
-translator_5_nameEnglish = SeungheonOh
-translator_5_contact = dan.oh0721@gmail.com
-
-translator_6_nameEnglish = Simon Quigley
-translator_6_contact = simon@tsimonq2.net
+translator_5_nameEnglish = Simon Quigley
+translator_5_contact = simon@tsimonq2.net
 
