@@ -25,7 +25,6 @@
 #[de]     1 <scootergrisen@gmail.com>                scootergrisen
 #[de]  3920 <https://github.com/ThomasVie>           Thomas Viehweger
 #[de]    81 <tm@tobix.eu>                            Tobias Marquardt
-#[de]     5 <noreply@weblate.org>                    Weblate
 #[de]    93 <github@lanrules.de>                     ypnos
 
 translator_1_nameEnglish = Alf Gaida
@@ -88,9 +87,6 @@ translator_19_contact = https://github.com/ThomasVie
 translator_20_nameEnglish = Tobias Marquardt
 translator_20_contact = tm@tobix.eu
 
-translator_21_nameEnglish = Weblate
-translator_21_contact = noreply@weblate.org
-
-translator_22_nameEnglish = ypnos
-translator_22_contact = github@lanrules.de
+translator_21_nameEnglish = ypnos
+translator_21_contact = github@lanrules.de
 

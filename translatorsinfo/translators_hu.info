@@ -9,11 +9,7 @@
 #[hu]  1073 <attila@localhost.localdomain>           attila
 #[hu]  5989 <attus@enterpriseforever.com>            attus
 #[hu]    67 <vht2017@vivaldi.net>                    Gabor Ganzer jr
-#[hu]    28 <ste@vogliaditerra.com>                  Standreas
-#[hu]     2 <noreply@weblate.org>                    Weblate
-#[hu]   711 <https://github.com/zoli111>             zoli111
-#[hu]    44 <acszoltan111@gmail.com>                 zoli111
-#[hu]  5070 <acszoltan111@gmail.com>                 Ács Zoltán
+#[hu]  5825 <acszoltan111@gmail.com>                 zoli111
 
 translator_1_nameEnglish = -
 translator_1_contact = petbottle@protonmail.com
@@ -27,18 +23,6 @@ translator_3_contact = attus@enterpriseforever.com
 translator_4_nameEnglish = Gabor Ganzer jr
 translator_4_contact = vht2017@vivaldi.net
 
-translator_5_nameEnglish = Standreas
-translator_5_contact = ste@vogliaditerra.com
-
-translator_6_nameEnglish = Weblate
-translator_6_contact = noreply@weblate.org
-
-translator_7_nameEnglish = zoli111
-translator_7_contact = https://github.com/zoli111
-
-translator_8_nameEnglish = zoli111
-translator_8_contact = acszoltan111@gmail.com
-
-translator_9_nameEnglish = Ács Zoltán
-translator_9_contact = acszoltan111@gmail.com
+translator_5_nameEnglish = zoli111
+translator_5_contact = acszoltan111@gmail.com
 
