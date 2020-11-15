@@ -11,7 +11,6 @@
 #[nl]   586 <pjotrvertaalt@gmail.com>                Pjotr Vertaalt
 #[nl]     5 <ringodekroon@gmail.com>                 ringo32
 #[nl]     1 <roel.vercammen@gmail.com>               Roelio81
-#[nl]     2 <standreas@riseup.net>                   Standreas
 #[nl]   153 <https://github.com/Thomas-N>            Thomas-N
 
 translator_1_nameEnglish = Arie
@@ -32,9 +31,6 @@ translator_5_contact = ringodekroon@gmail.com
 translator_6_nameEnglish = Roelio81
 translator_6_contact = roel.vercammen@gmail.com
 
-translator_7_nameEnglish = Standreas
-translator_7_contact = standreas@riseup.net
-
-translator_8_nameEnglish = Thomas-N
-translator_8_contact = https://github.com/Thomas-N
+translator_7_nameEnglish = Thomas-N
+translator_7_contact = https://github.com/Thomas-N
 

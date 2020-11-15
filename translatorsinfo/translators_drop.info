@@ -13,9 +13,8 @@
 #[drop]    51 <petr@yarpen.cz>                         Petr Vanek
 #[drop]     2 <rbuj@fedoraproject.org>                 Robert Antoni Buj Gelonch
 #[drop]     3 <u_ho_@msn.com>                          Ryuho Kumagai
-#[drop]     1 <ste@vogliaditerra.com>                  Standreas
 #[drop]     3 <hazap@hotmail.com>                      welaq
-#[drop]     2 <https://github.com/zoli111>             zoli111
+#[drop]     2 <acszoltan111@gmail.com>                 zoli111
 
 translator_1_nameEnglish = Andrey Bondrov
 translator_1_contact = andrey.bondrov@rosalab.ru
@@ -40,12 +39,9 @@ translator_7_contact = rbuj@fedoraproject.org
 translator_8_nameEnglish = Ryuho Kumagai
 translator_8_contact = u_ho_@msn.com
 
-translator_9_nameEnglish = Standreas
-translator_9_contact = ste@vogliaditerra.com
+translator_9_nameEnglish = welaq
+translator_9_contact = hazap@hotmail.com
 
-translator_10_nameEnglish = welaq
-translator_10_contact = hazap@hotmail.com
-
-translator_11_nameEnglish = zoli111
-translator_11_contact = https://github.com/zoli111
+translator_10_nameEnglish = zoli111
+translator_10_contact = acszoltan111@gmail.com
 

@@ -9,11 +9,8 @@
 #[it]   212 <emanueleant03@gmail.com>                Emanuele Antonio Faraone
 #[it]   989 <matteo.piazzolla@gmail.com>             Matteo Piazzolla
 #[it]  2034 <anothersms@gmail.com>                   Nicolò Balzarotti
-#[it]    12 <standreas@riseup.net>                   Standreas
-#[it]  3232 <ste@vogliaditerra.com>                  Standreas
-#[it]     9 <steff@vogliaditerra.com>                Stefonarch
+#[it]  3253 <ste@vogliaditerra.com>                  Standreas
 #[it]   778 <smart2128@baslug.org>                   Vincenzo Reale
-#[it]     1 <noreply@weblate.org>                    Weblate
 #[it]   355 <matteo@mageia.it>                       xquiet
 
 translator_1_nameEnglish = dforsi
@@ -29,20 +26,11 @@ translator_4_nameEnglish = Nicolò Balzarotti
 translator_4_contact = anothersms@gmail.com
 
 translator_5_nameEnglish = Standreas
-translator_5_contact = standreas@riseup.net
+translator_5_contact = ste@vogliaditerra.com
 
-translator_6_nameEnglish = Standreas
-translator_6_contact = ste@vogliaditerra.com
+translator_6_nameEnglish = Vincenzo Reale
+translator_6_contact = smart2128@baslug.org
 
-translator_7_nameEnglish = Stefonarch
-translator_7_contact = steff@vogliaditerra.com
-
-translator_8_nameEnglish = Vincenzo Reale
-translator_8_contact = smart2128@baslug.org
-
-translator_9_nameEnglish = Weblate
-translator_9_contact = noreply@weblate.org
-
-translator_10_nameEnglish = xquiet
-translator_10_contact = matteo@mageia.it
+translator_7_nameEnglish = xquiet
+translator_7_contact = matteo@mageia.it
 

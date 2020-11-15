@@ -11,7 +11,6 @@
 #[sv]     2 <gianfranco.gutierrez@icloud.com>        Gguti
 #[sv]    25 <iah@protonmail.ch>                      Isak Holmström
 #[sv]  2722 <mikael@parknert.se>                     parknert
-#[sv]    85 <noreply@weblate.org>                    Weblate
 #[sv]   883 <eson@svenskasprakfiler.se>              Åke Engelbrektson
 
 translator_1_nameEnglish = bittin
@@ -32,9 +31,6 @@ translator_5_contact = iah@protonmail.ch
 translator_6_nameEnglish = parknert
 translator_6_contact = mikael@parknert.se
 
-translator_7_nameEnglish = Weblate
-translator_7_contact = noreply@weblate.org
-
-translator_8_nameEnglish = Åke Engelbrektson
-translator_8_contact = eson@svenskasprakfiler.se
+translator_7_nameEnglish = Åke Engelbrektson
+translator_7_contact = eson@svenskasprakfiler.se
 

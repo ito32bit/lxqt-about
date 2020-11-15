@@ -11,7 +11,6 @@
 #[id]    29 <iir_irfan02.2017@student.uny.ac.id>     Muhammad Irfan Luthfi
 #[id]     3 <nblid48@gmail.com>                      Nabil
 #[id]     4 <show.cheap@gmail.com>                   Sucipto
-#[id]     4 <noreply@weblate.org>                    Weblate
 
 translator_1_nameEnglish = Akhmad Zulfikar
 translator_1_contact = azuldegratz@gmail.com
@@ -30,7 +29,4 @@ translator_5_contact = nblid48@gmail.com
 
 translator_6_nameEnglish = Sucipto
 translator_6_contact = show.cheap@gmail.com
-
-translator_7_nameEnglish = Weblate
-translator_7_contact = noreply@weblate.org
 
