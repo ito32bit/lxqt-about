@@ -5,9 +5,11 @@ declare -A developers=(
   [52656419+ito32bit@users.noreply.github.com]="ja"
   [72348767+LXQtBot@users.noreply.github.com]="--"
   [luis.artur.pereira@gmail.com]="de pt"
+  [noreply@weblate.org]="--"
   [palo.kisa@gmail.com]="sk"
   [paulolieuthier@gmail.com]="--"
   [philipp.wiesemann@arcor.de]="de"
   [pmattern@arcor.de]="de"
+  [ste@vogliaditerra.com]="it"
   [tsujan2000@gmail.com]="--"
 )
