@@ -10,10 +10,9 @@
 #[fr]     1 <butterflyoffire@protonmail.com>         ButterflyOfFire
 #[fr]    12 <schwancarl@protonmail.com>              Carl Schwan
 #[fr]    11 <fabien.wang@gmail.com>                  Fabien Wang
-#[fr]  1915 <paiiou@free.fr>                         Georges Eckenschwiller
+#[fr]  1778 <paiiou@free.fr>                         Georges Eckenschwiller
 #[fr]     2 <gpenverne@gmail.com>                    gpenverne
 #[fr]    54 <herve.dubois@vivaldi.net>               herve
-#[fr]    19 <github@lionelchanson.fr>                Lionel Chanson
 #[fr]   124 <cliqloth64@gnous.eu>                    LothaireCliquennois
 #[fr]     4 <nicolas.pierre.miller@gmail.com>        npmiller
 #[fr]     8 <yves.brungard_git@gadz.org>             Papoteur
@@ -46,27 +45,24 @@ translator_7_contact = gpenverne@gmail.com
 translator_8_nameEnglish = herve
 translator_8_contact = herve.dubois@vivaldi.net
 
-translator_9_nameEnglish = Lionel Chanson
-translator_9_contact = github@lionelchanson.fr
+translator_9_nameEnglish = LothaireCliquennois
+translator_9_contact = cliqloth64@gnous.eu
 
-translator_10_nameEnglish = LothaireCliquennois
-translator_10_contact = cliqloth64@gnous.eu
+translator_10_nameEnglish = npmiller
+translator_10_contact = nicolas.pierre.miller@gmail.com
 
-translator_11_nameEnglish = npmiller
-translator_11_contact = nicolas.pierre.miller@gmail.com
+translator_11_nameEnglish = Papoteur
+translator_11_contact = yves.brungard_git@gadz.org
 
-translator_12_nameEnglish = Papoteur
-translator_12_contact = yves.brungard_git@gadz.org
+translator_12_nameEnglish = pols12
+translator_12_contact = poltron54@gmail.com
 
-translator_13_nameEnglish = pols12
-translator_13_contact = poltron54@gmail.com
+translator_13_nameEnglish = Raphaël Bazaud
+translator_13_contact = rbazaud@gmail.com
 
-translator_14_nameEnglish = Raphaël Bazaud
-translator_14_contact = rbazaud@gmail.com
+translator_14_nameEnglish = roxfr
+translator_14_contact = roxfr@outlook.fr
 
-translator_15_nameEnglish = roxfr
-translator_15_contact = roxfr@outlook.fr
-
-translator_16_nameEnglish = titiracoon
-translator_16_contact = titirac00n@free.fr
+translator_15_nameEnglish = titiracoon
+translator_15_contact = titirac00n@free.fr
 

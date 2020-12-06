@@ -7,7 +7,6 @@
 #[Lang] Lines <Mail> Name
 #[es_VE]     8 <digitoptic.net@gmail.com>               DigitOptic Servicios
 #[es_VE]     8 <glpz@daxslab.com>                       Gabriel A. López López
-#[es_VE]     2 <isseigx@protonmail.ch>                  Gabriel Retana
 #[es_VE]     0 <jairlopez@etca.com.ve>                  Jair López
 #[es_VE]     8 <jels1988@gmail.com>                     Juan Emilio Lama Salas
 #[es_VE]     1 <ojparada@gmail.com>                     Omar Parada
@@ -19,18 +18,15 @@ translator_1_contact = digitoptic.net@gmail.com
 translator_2_nameEnglish = Gabriel A. López López
 translator_2_contact = glpz@daxslab.com
 
-translator_3_nameEnglish = Gabriel Retana
-translator_3_contact = isseigx@protonmail.ch
+translator_3_nameEnglish = Jair López
+translator_3_contact = jairlopez@etca.com.ve
 
-translator_4_nameEnglish = Jair López
-translator_4_contact = jairlopez@etca.com.ve
+translator_4_nameEnglish = Juan Emilio Lama Salas
+translator_4_contact = jels1988@gmail.com
 
-translator_5_nameEnglish = Juan Emilio Lama Salas
-translator_5_contact = jels1988@gmail.com
+translator_5_nameEnglish = Omar Parada
+translator_5_contact = ojparada@gmail.com
 
-translator_6_nameEnglish = Omar Parada
-translator_6_contact = ojparada@gmail.com
-
-translator_7_nameEnglish = PICCORO Lenz McKAY
-translator_7_contact = mckaygerhard@gmail.com
+translator_6_nameEnglish = PICCORO Lenz McKAY
+translator_6_contact = mckaygerhard@gmail.com
 

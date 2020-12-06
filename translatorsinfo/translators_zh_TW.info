@@ -8,22 +8,20 @@
 #[zh_TW]     1 <andyjy12@gmail.com>                     andyjy12
 #[zh_TW]    56 <chaochinghua@outlook.com>               BavonChao
 #[zh_TW]    48 <f411024@gmail.com>                      BIG_whale
-#[zh_TW]    93 <g4691821@gmail.com>                     Billy Su
+#[zh_TW]    89 <g4691821@gmail.com>                     Billy Su
 #[zh_TW]    81 <pan93412@gmail.com>                     byStarTW
 #[zh_TW]   357 <stu2731652+AT+gmail.com>                Cheng-Hong Wu (stuarch)
-#[zh_TW]    77 <yan12125@gmail.com>                     Chih-Hsuan Yen
+#[zh_TW]    66 <yan12125@gmail.com>                     Chih-Hsuan Yen
 #[zh_TW]     5 <r05944034@ntu.edu.tw>                   Chun Yuan Cheng
 #[zh_TW]    12 <c26400@gmail.com>                       DanLuInTW
 #[zh_TW]     1 <david10188@gmail.com>                   david10188
 #[zh_TW]     3 <deanfan@gmail.com>                      Dean Fan
-#[zh_TW]   691 <pcman.tw@gmail.com>                     Hong Jen Yee (PCMan)
+#[zh_TW]   689 <pcman.tw@gmail.com>                     Hong Jen Yee (PCMan)
 #[zh_TW]     6 <icarusxxy@gmail.com>                    icarusxxy
 #[zh_TW]     4 <b03902086@ntu.edu.tw>                   Kevin Li
 #[zh_TW]    80 <kinabcd@gmail.com>                      Kin Lo
 #[zh_TW]    52 <mecca831@gmail.com>                     Kochih Wu
-#[zh_TW]    19 <notname000@outlook.com>                 notname000
 #[zh_TW]   414 <r901042004@yahoo.com.tw>                r901042004
-#[zh_TW]     2 <rezso@rezso.net>                        rezso
 #[zh_TW]    45 <wwycheuk@gmail.com>                     Walter Cheuk
 
 translator_1_nameEnglish = andyjy12
@@ -74,15 +72,9 @@ translator_15_contact = kinabcd@gmail.com
 translator_16_nameEnglish = Kochih Wu
 translator_16_contact = mecca831@gmail.com
 
-translator_17_nameEnglish = notname000
-translator_17_contact = notname000@outlook.com
+translator_17_nameEnglish = r901042004
+translator_17_contact = r901042004@yahoo.com.tw
 
-translator_18_nameEnglish = r901042004
-translator_18_contact = r901042004@yahoo.com.tw
-
-translator_19_nameEnglish = rezso
-translator_19_contact = rezso@rezso.net
-
-translator_20_nameEnglish = Walter Cheuk
-translator_20_contact = wwycheuk@gmail.com
+translator_18_nameEnglish = Walter Cheuk
+translator_18_contact = wwycheuk@gmail.com
 
