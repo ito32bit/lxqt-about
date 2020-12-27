@@ -64,9 +64,9 @@ for fp in `find . -name "translators_*$1.gitlog"` ; do
         if ! $dev ; then
           if [[ $line =~ .*$filename ]] ; then
             let count=count+${line%%$'\t'*}
-          elif ! [[ $line =~ .*(\.ts|\.desktop\.in|\.desktop|\.directory\.in|\.directory|CMakeLists.txt) ]] ; then
+          elif ! [[ $line =~ .*(\.ts|\.desktop\.in|\.desktop|\.directory\.in|\.directory|\.yaml|CMakeLists.txt) ]] ; then
             dev=true
-          elif [[ $line =~ .*/[^_]*_(..).*\.(ts|desktop|directory) ]] ; then
+          elif [[ $line =~ .*/[^_]*_(..).*\.(ts|desktop|directory|yaml) ]] ; then
             if [[ ${BASH_REMATCH[1]} != ${lang:0:2} ]] ; then
                 dev=true
             fi
