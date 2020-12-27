@@ -5,12 +5,8 @@
 #
 
 #[Lang] Lines <Mail> Name
-#[pt_PT]  3631 <loruanschool@gmail.com>                 Ruan O. Lima
-#[pt_PT]   955 <smarquespt@gmail.com>                   Sérgio Marques
+#[pt_PT]  3629 <loruanschool@gmail.com>                 Ruan O. Lima
 
 translator_1_nameEnglish = Ruan O. Lima
 translator_1_contact = loruanschool@gmail.com
-
-translator_2_nameEnglish = Sérgio Marques
-translator_2_contact = smarquespt@gmail.com
 

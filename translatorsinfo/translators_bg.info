@@ -7,6 +7,7 @@
 #[Lang] Lines <Mail> Name
 #[bg]    28 <ipanamski@gmail.com>                    Ivailo Panamski
 #[bg]   408 <trapcity11@abv.bg>                      Kristiyan Kostov
+#[bg]    25 <mkondarev@yahoo.de>                     Mincho Kondarev
 #[bg]  3398 <bestpanda4ever@gmail.com>               Viliqn Iordanov
 #[bg]     4 <berov@cpan.org>                         Красимир Беров
 
@@ -16,9 +17,12 @@ translator_1_contact = ipanamski@gmail.com
 translator_2_nameEnglish = Kristiyan Kostov
 translator_2_contact = trapcity11@abv.bg
 
-translator_3_nameEnglish = Viliqn Iordanov
-translator_3_contact = bestpanda4ever@gmail.com
+translator_3_nameEnglish = Mincho Kondarev
+translator_3_contact = mkondarev@yahoo.de
 
-translator_4_nameEnglish = Красимир Беров
-translator_4_contact = berov@cpan.org
+translator_4_nameEnglish = Viliqn Iordanov
+translator_4_contact = bestpanda4ever@gmail.com
+
+translator_5_nameEnglish = Красимир Беров
+translator_5_contact = berov@cpan.org
 
