@@ -5,20 +5,12 @@
 #
 
 #[Lang] Lines <Mail> Name
-#[pl_PL]     7 <napcok@gmail.com>                       Daniel Napora
 #[pl_PL]     0 <https://m4sk.in/>                       Marcin Mikołajczak
-#[pl_PL]     4 <me@m4sk.in>                             Marcin Mikołajczak
 #[pl_PL]     0 <Nuc!eoN>                                Nuc!eoN
 
-translator_1_nameEnglish = Daniel Napora
-translator_1_contact = napcok@gmail.com
+translator_1_nameEnglish = Marcin Mikołajczak
+translator_1_contact = https://m4sk.in/
 
-translator_2_nameEnglish = Marcin Mikołajczak
-translator_2_contact = https://m4sk.in/
-
-translator_3_nameEnglish = Marcin Mikołajczak
-translator_3_contact = me@m4sk.in
-
-translator_4_nameEnglish = Nuc!eoN
-translator_4_contact = Nuc!eoN
+translator_2_nameEnglish = Nuc!eoN
+translator_2_contact = Nuc!eoN
 
